@@ -1,4 +1,4 @@
-# pharmacy_store
+# QUICKCARE pharmacy_store
 
 A new Flutter project.
 
